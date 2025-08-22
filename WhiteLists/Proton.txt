@@ -1,0 +1,11 @@
+# ProtonMail Servers White List
+@@|*proton.me^$important
+@@|*mail.proton.me^$important
+@@|*account.proton.me^$important
+@@|*api.proton.me^$important
+@@|*app.proton.me^$important
+@@|*protonmail.com^$important
+@@|*api.protonmail.ch^$important
+@@|*protonvpn.com^$important
+@@|*protondrive.com^$important
+@@|*protoncalendar.com^$important
