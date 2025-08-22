@@ -1,0 +1,6 @@
+# Fortnite Blocking List
+@@|*fortnite-matchmaking-public-service-live-eu.ol.epicgames.com^$important
+@@|*eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com^$important
+@@|*eos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com^$important
+@@|*datarouter.ol.epicgames.com^$important
+@@|*account-service-prod03-pub-ak-1731030959.us-east-1.elb.amazonaws.com^$important
