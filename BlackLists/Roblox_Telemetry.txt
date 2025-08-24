@@ -1,0 +1,9 @@
+#Block Roblox Telemetry
+||ecsv2.roblox.com^
+||client-telemetry.roblox.com^
+||tracing.roblox.com^
+||ephemeralcounters.api.roblox.com^
+||uploads.backtrace.rbx.com^
+||realtime-signalr.roblox.com^
+||lms.roblox.com^
+||metrics.roblox.com^
