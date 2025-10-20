@@ -1,5 +1,6 @@
 # Signal Messenger Servers White List
 @@|*signal.org^$important
+@@|chat.signal.org^$important
 @@|*signal.art^$important
 @@|*signal.group^$important
 @@|*signal.link^$important
